@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Storefront.Models;
+using StorefrontProject.Models;
 using System.Diagnostics;
 
-namespace Storefront.Controllers
+namespace StorefrontProject.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,4 +1,4 @@
-namespace Storefront.Models
+namespace StorefrontProject.Models
 {
     public class ErrorViewModel
     {
